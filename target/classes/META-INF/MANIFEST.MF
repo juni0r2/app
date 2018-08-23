@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: israel.franca
+Implementation-Vendor-Id: com.schoolofnet
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
