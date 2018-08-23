@@ -15,7 +15,7 @@ public class HelloController {
 	@GetMapping("/")
 	@ResponseBody
 	public String say() {
-		return "This is my first project with Spring boot";
+		return "This is my first project with Spring boot and GitHub";
 	}
 	
 	@GetMapping("/say/{name}")
